@@ -8,7 +8,7 @@ People page:
 ![People page](https://github.com/nevoit/research-lab-website/blob/main/figures/people.png?raw=true)
 
 Person page (clicking on profile picture or the information button):
-![Person page](https://github.com/nevoit/research-lab-website/blob/main/figures/person.png?raw=true)
+![Person page](https://github.com/nevoit/research-lab-website/blob/main/figures/personpage.png?raw=true)
 
 Projects page:
 ![Projects page](https://github.com/nevoit/research-lab-website/blob/main/figures/projects.png?raw=true)
