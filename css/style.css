@@ -1,0 +1,320 @@
+body {
+    color: #929292;
+    font-size: 14px;
+    background-color: #f7f7f9;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.SandboxRoot.env-bp-970 .timeline-Tweet-text{
+    font-size: 19px !important;
+    line-height: 28px !important;
+}
+
+.s-header{
+    padding: 20px 0;
+    overflow: hidden;
+}
+
+a{
+    color:#929292;
+    text-decoration: underline;
+}
+
+.s-nav {
+    background-color: #fff;
+    border-bottom: solid 1px #d3d3d352;
+}
+
+.main-box {
+    background-color: #fff;
+    -webkit-box-shadow: 0 6px 20px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 6px 20px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 6px 20px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 6px 20px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 16px 11px;
+}
+
+.breadcrumb-content {
+    padding: 0px 15px;
+}
+
+.breadcrumb-info {
+    max-width: 550px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.global-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.social li {
+    font-size: 18px;
+    color: #7b797c;
+    margin-right: 10px;
+}
+
+.social ul li {
+    float: left;
+    margin-right: 25px;
+}
+
+.social a{
+    color: #929292;
+}
+
+.social a:hover, .logo a:hover {
+    color: #344f88;
+}
+
+.logo a{
+    color: rgba(0, 0, 0, 0.64);
+}
+
+.logo-text{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 35px;
+}
+
+.jumbotron{
+    border-radius: 0;
+    margin-bottom: 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.jumbotron video {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    opacity:0.5;
+  }
+
+  .jumbotron .container {
+    z-index: 2;
+    position: relative;
+  }
+
+.s-footer {
+    background-color: #ffffff;
+    border-top: .05rem solid #e5e5e5;
+    overflow: hidden;
+    padding: 30px 0;
+    text-transform: uppercase;
+}
+
+.links-footer{
+    padding: 100px 0px;
+}
+
+h3 {
+    color: #0076aa;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin: 5px 0 30px;
+}
+
+.section-padding {
+    padding: 55px 30px;
+}
+
+.section-title {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.service-item:hover {
+    background-color: #f6f7f9;
+}
+
+.people-profile {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.people-name {
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #0076aa;
+    margin: 5px;
+}
+
+a.people-link {
+    text-decoration: none;
+}
+
+a.project-link{
+    text-decoration: none;
+}
+
+.person {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-degree:hover {
+    color: #fff;
+    background-color: #0076aa;
+    border-color: #545b62;
+}
+
+.btn-degree {
+    color: #fff;
+    background-color: #0076aa;
+    border-color: #6c757d;
+}
+
+.pub-title {
+    margin: 0;
+    font-size: 19px;
+    color: #3c3c3c;
+}
+
+.pub-authors {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.s-pub {
+    padding: 0px 20px;
+}
+
+.pub-journal {
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+
+.pub-year {
+    margin-bottom: 0px;
+    font-size: 16px;
+    background-color: #344f88;
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+}
+
+.pub-row {
+    padding: 20px 0px;
+}
+
+.pub-link{
+    color: #929292;
+    font-size: 25px;
+    padding: 0px 3px;
+    text-decoration: none;
+}
+
+.pub-link:hover {
+    color: #344f88;
+    text-decoration: underline;
+}
+
+p.pub-type {
+    margin-bottom: 0px;
+}
+
+.router-link-active {
+    color: black;
+    font-weight: 50px;
+    font-weight: bold;
+}
+
+.btn-filter{
+    color: #7b797c;
+    background-color: transparent;
+    background-image: none;
+    border-color: #7b797c;
+}
+
+.btn-filter.active {
+    color: #fff;
+    background-color: #344f88;
+    border-color: #344f88;
+}
+
+.btn-filter:hover {
+    color: #fff;
+    background-color: #344f88;
+    border-color: #fff;
+}
+
+.btn-service {
+    color: #fff;
+    background-color: #344f88;
+    border-color: #344f88;
+}
+
+.btn-service:hover {
+    color: #fff;
+    background-color: #344f88;
+    border-color: #344f88;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a.btn.btn-service{
+    text-decoration: none;
+}
+
+  
+/* Extra small devices (portrait phones, less than 576px)
+ No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    h1 {
+        font-size: 25px;
+        font-weight: 300;
+        margin: 0 0 15px;
+        text-transform: uppercase;
+    }
+}
+
+/* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) {
+    .pub-year{
+        margin-bottom: 15px;
+    }
+    .filter-by {
+        margin-bottom: 25px;
+    }
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .jumbotron{
+        background-color:black;
+    }
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    h1 {
+        font-size: 60px;
+        font-weight: 800;
+        margin: 0 0 15px;
+        text-transform: uppercase;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+}

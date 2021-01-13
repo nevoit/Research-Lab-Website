@@ -1,0 +1,9 @@
+[
+    {
+        "id": "cp1",
+        "name": "Project1",
+        "description": "description here",
+        "leader": "name",
+        "image": "logo.png"
+    }
+  ]
